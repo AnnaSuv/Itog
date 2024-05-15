@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITOG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9972c41d0c71dcb571eb7180b811922e287c9f08")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITOG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITOG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
